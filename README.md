@@ -3,6 +3,7 @@ This is a recon tool that is made to run all recon methods automatically and thi
 
 To run the program, you need to install several tools first. To do this, run all this program: 
 
+```bash
 sudo apt install subfinder httpx nuclei massdns assetfinder \
 waybackurls unfurl subjack subzy ffuf shuffledns gau amass jq curl python3-pip
 git clone https://github.com/m4ll0k/SecretFinder.git /opt/SecretFinder
