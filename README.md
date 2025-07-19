@@ -8,6 +8,28 @@ waybackurls unfurl subjack subzy ffuf shuffledns gau amass jq curl python3-pip
 git clone https://github.com/m4ll0k/SecretFinder.git /opt/SecretFinder
 pip3 install -r /opt/SecretFinder/requirements.txt
 
+# Recon
+
+Ultimate Recon Automation Framework - One Command, Complete Recon.
+
+## 🚀 Features
+- Subdomain enumeration (subfinder, amass, assetfinder, crt.sh)
+- Alive host detection (httpx)
+- DNS resolution (massdns, shuffledns)
+- Subdomain takeover check (subjack, subzy)
+- Historical URL fetching (waybackurls, gau)
+- JS endpoint testing (SecretFinder)
+- Vulnerability scanning (nuclei)
+- Directory fuzzing (ffuf)
+- Asset graph creation
+
+## 🛠️ Installation
+```bash
+git clone https://github.com/YuukiSahara/ReconYuuki.git
+cd ReconYuuki
+bash install.sh
+
+
 # Usage
 chmod +x ReconAutomation.sh
 ./ReconAutomation.sh example.com
