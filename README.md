@@ -25,8 +25,8 @@ Ultimate Recon Automation Framework - One Command, Complete Recon.
 
 ## 🛠️ Installation
 ```bash
-git clone https://github.com/YuukiSahara/ReconYuuki.git
-cd ReconYuuki
+git clone https://github.com/pintargg/ReconAutomation.git
+cd Reconautomation
 bash install.sh
 
 
