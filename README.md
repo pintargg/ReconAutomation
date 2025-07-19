@@ -9,5 +9,5 @@ git clone https://github.com/m4ll0k/SecretFinder.git /opt/SecretFinder
 pip3 install -r /opt/SecretFinder/requirements.txt
 
 # Usage
-chmod +x reconyuuki.sh
-./reconyuuki.sh example.com
+chmod +x ReconAutomation.sh
+./ReconAutomation.sh example.com
