@@ -11,3 +11,6 @@ pip3 install -r /opt/SecretFinder/requirements.txt
 # Usage
 chmod +x ReconAutomation.sh
 ./ReconAutomation.sh example.com
+
+# DISCLAMER
+This project has just been created and may still have some issues that need to be fixed, so it is still alpha.
