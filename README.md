@@ -8,7 +8,7 @@ sudo apt install subfinder httpx nuclei massdns assetfinder \
 waybackurls unfurl subjack subzy ffuf shuffledns gau amass jq curl python3-pip
 git clone https://github.com/m4ll0k/SecretFinder.git /opt/SecretFinder
 pip3 install -r /opt/SecretFinder/requirements.txt
-
+```
 # Recon
 
 Ultimate Recon Automation Framework - One Command, Complete Recon.
@@ -29,8 +29,7 @@ Ultimate Recon Automation Framework - One Command, Complete Recon.
 git clone https://github.com/pintargg/ReconAutomation.git
 cd Reconautomation
 bash install.sh
-
-##
+```
 # Usage
 chmod +x ReconAutomation.sh
 ./ReconAutomation.sh example.com
