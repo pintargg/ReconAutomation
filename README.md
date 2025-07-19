@@ -7,3 +7,7 @@ sudo apt install subfinder httpx nuclei massdns assetfinder \
 waybackurls unfurl subjack subzy ffuf shuffledns gau amass jq curl python3-pip
 git clone https://github.com/m4ll0k/SecretFinder.git /opt/SecretFinder
 pip3 install -r /opt/SecretFinder/requirements.txt
+
+# Usage
+chmod +x reconyuuki.sh
+./reconyuuki.sh example.com
